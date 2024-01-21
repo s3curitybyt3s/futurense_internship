@@ -6,9 +6,9 @@ def minion_game(string):
     if kevin == stuart:
         print('draw')
     elif kevin < stuart:
-        print("Stuart win")
+        print("James win")
     else:
-        print("Kevin win")
+        print("Bond win")
     
     
 def vowel(string):
