@@ -55,8 +55,3 @@ learnt something
 Hope you learnt something, then just give it star & share it to more of your friends as it founds you 
 
 
-Credits
--------
-
-All the credits to [kalebu](https://github.com/Kalebu)
-
